@@ -10,7 +10,9 @@ public class Test {
     }
 
     public void functionB(){
-        
+        int a = 1;
+        int b = 2;
+        return;
     }
 
 
