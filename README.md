@@ -1,7 +1,3 @@
-Got it! Here’s a README file that focuses on the deployed version of your LinkedIn clone without installation instructions:
-
----
-
 # LinkedIn Clone
 
 Welcome to the LinkedIn Clone project! This application is a modern replica of LinkedIn, built using Next.js, TypeScript, and Tailwind CSS. It provides core networking features, allowing users to create and interact with posts, manage their profiles, and more.
@@ -17,18 +13,16 @@ Welcome to the LinkedIn Clone project! This application is a modern replica of L
 ## Deployed Application
 
 You can explore the deployed application at the following link:
+- LinkedIn Clone: [https://linkdin-clone-2-ochre.vercel.app/](https://linkdin-clone-2-ochre.vercel.app/)
 
-[LinkedIn Clone]
-(https://linkdin-clone-2-ochre.vercel.app/)
-https://linkdin-clone-2-ochre.vercel.app/
-
-Feel free to check out the app and experience its features directly!
+Feel free to check out the app and experience its features directly.
+Sign up with Google and add your own posts!
 
 ## Contact
 
 For any questions or feedback, please contact:
 
-- **Your Name**: [Saumya Gupta](Saumyag335@gmail.com)
+- **Saumya Gupta**: [Saumyag335@gmail.com](Saumyag335@gmail.com)
 - **GitHub**: [Saumya-33](https://github.com/Saumya-33)
 
 ---
